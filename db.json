@@ -1,5 +1,7 @@
-[
-  {
+{
+  "movies": [
+
+    {
     "Title": "They Shall Not Grow Old",
     "Year": 2018,
     "Rated": "R",
@@ -384,6 +386,6 @@
     "DVD": "25 Oct 2019",
     "BoxOffice": "N/A",
     "Production": "Netflix",
-    "Response": "True"
+    "Response": "True"}
+  ]
   }
-]
